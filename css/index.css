@@ -728,8 +728,8 @@ footer .foo {
     }
 
     label.logo .img-ii {
-        width: 54%;
-        margin-top: 6%;
+        width: 65%;
+        margin-top: 8%;
     }
 
     ul {
@@ -825,13 +825,17 @@ footer .foo {
     header .head .lef .row {
         width: auto;
         display: flex;
-        justify-content: start;
+        justify-content: space-between;
         align-items: center;
     }
 
     header .head .lef .row .sec {
-        width: 15%;
+        width: 35%;
         align-items: center;
+    }
+
+    header .head .lef .row .sec img {
+        width: 95%;
     }
 
     header .head .lef .row h4 {
@@ -917,6 +921,7 @@ footer .foo {
     }
 
     section .coll .rol a {
+        font-size: 15px;
         padding: 12px 15px;
         margin-left: 2%;
         border-radius: 10px;
@@ -1206,8 +1211,8 @@ footer .foo {
         display: flex;
         justify-content: center;
         background: #d8d6d5;
-        padding-top: 2%;
-        padding-bottom: 1%;
+        padding-top: 5%;
+        padding-bottom: 3%;
     }
 
     footer .foo {
@@ -1222,7 +1227,7 @@ footer .foo {
     }
 
     .ote img {
-        width: 35%;
+        width: 45%;
         height: 10%;
     }
 
@@ -1250,7 +1255,7 @@ footer .foo {
     }
 
     .oo .oto img {
-        width: 45%;
+        width: 65%;
         height: auto;
     }
 
@@ -1264,11 +1269,11 @@ footer .foo {
         display: flex;
         justify-content: center;
         border-top: 1px solid black;
-        padding-top: 1%;
+        padding-top: 2%;
     }
 
     .foo .ter img {
-        width: 15%;
+        width: 25%;
     }
 
 

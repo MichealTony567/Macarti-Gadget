@@ -509,8 +509,8 @@ footer .foo {
     }
 
     label.logo .img-ii {
-        width: 50%;
-        margin-top: 4%;
+        width: 65%;
+        margin-top: 8%;
     }
 
     ul {
@@ -638,13 +638,14 @@ footer .foo {
 
 
 
+
     footer {
         width: 100%;
         display: flex;
         justify-content: center;
         background: #d8d6d5;
-        padding-top: 2%;
-        padding-bottom: 1%;
+        padding-top: 5%;
+        padding-bottom: 3%;
     }
 
     footer .foo {
@@ -659,7 +660,7 @@ footer .foo {
     }
 
     .ote img {
-        width: 35%;
+        width: 45%;
         height: 10%;
     }
 
@@ -687,7 +688,7 @@ footer .foo {
     }
 
     .oo .oto img {
-        width: 45%;
+        width: 65%;
         height: auto;
     }
 
@@ -701,25 +702,12 @@ footer .foo {
         display: flex;
         justify-content: center;
         border-top: 1px solid black;
-        padding-top: 1%;
+        padding-top: 2%;
     }
 
     .foo .ter img {
-        width: 15%;
+        width: 25%;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
